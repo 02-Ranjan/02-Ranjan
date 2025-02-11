@@ -1,7 +1,9 @@
 👋 Hi there, I'm Ranjan Koirala!
+
 I'm a passionate Frontend Developer specializing in creating responsive and user-friendly web applications. I love working with JavaScript frameworks and have a keen eye for design.
 
 🌟 Skills
+
 JavaScript, React, Vue.js
 HTML, CSS, Sass
 Responsive Web Design
